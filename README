@@ -31,3 +31,5 @@ File                  Purpose
 AUTHORS               list of authors (updated at each release)
 COPYRIGHT             Copyright statement for the project
 COPYING               Full text of the project license
+
+rodar testes via travis
